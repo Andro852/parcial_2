@@ -41,7 +41,7 @@ public class ejercicio_2 {
                     System.out.println("Opcion no valida (syntax error)");
                 }
             }
-        } while (opc != 5);
+        } while (opc != 4);
     }
 
     public static void opcion1() {
