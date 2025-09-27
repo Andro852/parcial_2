@@ -64,7 +64,7 @@ public class ejercicio_2 {
             }
         }
 
-        System.out.println("Resultado de 2A + 3B:");
+        System.out.println("Resultado de 5A + 3B:");
         for (i = 0; i < 3; i++) {
             for (j = 0; j < 1; j++) {
                 R[i][j] = - 5 * A[i][j] + 3 * B[i][j];

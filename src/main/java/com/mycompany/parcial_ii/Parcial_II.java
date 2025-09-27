@@ -25,12 +25,12 @@ public class Parcial_II {
                     break;
                 }
                 case 2: {
-                    System.out.println("Opción 2: a + b + c");
+                    System.out.println("Opción 2: a - b");
                     opcion2();
                     break;
                 }
                 case 3: {
-                    System.out.println("Opción 3: a - b");
+                    System.out.println("Opción 3: 4a - 3b");
                     opcion3();
                     break;
                 }
